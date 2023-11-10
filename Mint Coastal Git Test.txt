@@ -1,0 +1,17 @@
+Friday 10 November Knowledge Share Git Test 
+=========================================================================================
+Name: <Your name here>
+Surname <Your surname here>
+=========================================================================================
+Question1: What is the difference between a remote branch and a local branch?
+Answer1:
+Question2: What does a git pull command do ?
+Answer2:
+Question3: What does a git push command do ?
+Answer3:
+Question4: Name Mints Coastals preferred version control software ?
+Answer4:
+Question5: Explain the concept of branching in Git?
+Answer5:
+Question6: what is the purpose of a .gitignore file ?
+Answer6:
